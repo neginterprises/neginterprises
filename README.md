@@ -1,16 +1,84 @@
-## Hi there 👋
+# 🚀 N&G Interprises
 
-<!--
-**neginterprises/neginterprises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tecnologia com propósito. Inovação com resultado.**
 
-Here are some ideas to get you started:
+Bem-vindo ao repositório oficial da **N&G Interprises**!  
+Aqui é onde ideias se transformam em soluções inteligentes por meio de código limpo, arquitetura robusta e muita paixão por tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre nós
+
+Na N&G Interprises, desenvolvemos soluções sob medida com foco em **eficiência, escalabilidade e inovação**.  
+Nosso time é movido por desafios e apaixonado por tudo que envolve desenvolvimento de software, automação e transformação digital.
+
+---
+
+## 🧠 O que fazemos
+
+- 🖥️ Front-end
+- ✖️ Lógica com C
+
+---
+
+## 🛠️ Tecnologias que amamos
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/> 
+
+## 🌎 Nosso propósito
+
+Transformar código em soluções reais, que impactam pessoas e negócios.
+Acreditamos que a tecnologia deve ser clara, funcional e escalável — sem perder a essência humana por trás de cada linha de código.
+
+## 📫 Entre em contato
+
+Quer conversar sobre tecnologia ou colaborar com a gente?
+
+📧 Email: contato@neginterprises.com
+🔗 Instagram: @neginterprises
+🌐 Site: em breve!
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neginterprises&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neginterprises&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+<img src="https://raw.githubusercontent.com/natieledpaula/neginterprises/output/snake.svg" alt="Snake animation" />
+
+###
