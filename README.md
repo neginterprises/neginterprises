@@ -4,22 +4,19 @@
 
 Bem-vindo ao repositório oficial da **N&G Interprises**!  
 Aqui é onde ideias se transformam em soluções inteligentes por meio de código limpo, arquitetura robusta e muita paixão por tecnologia.
-
----
+<br>
 
 ## 💡 Sobre nós
 
 Na N&G Interprises, desenvolvemos soluções sob medida com foco em **eficiência, escalabilidade e inovação**.  
 Nosso time é movido por desafios e apaixonado por tudo que envolve desenvolvimento de software, automação e transformação digital.
-
----
+<br>
 
 ## 🧠 O que fazemos
 
 - 🖥️ Front-end
 - ✖️ Lógica com C
-
----
+<br>
 
 ## 🛠️ Tecnologias que amamos
 
