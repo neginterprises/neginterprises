@@ -63,7 +63,7 @@ Acreditamos que a tecnologia deve ser clara, funcional e escalável — sem perd
 
 Quer conversar sobre tecnologia ou colaborar com a gente?
 
-📧 Email: contato@neginterprises.com <br>
+📧 Email: neginterprises@gmail.com <br>
 🔗 Instagram: @neginterprises <br>
 🌐 Site: em breve!
 <br>
