@@ -63,8 +63,8 @@ Acreditamos que a tecnologia deve ser clara, funcional e escalável — sem perd
 
 Quer conversar sobre tecnologia ou colaborar com a gente?
 
-📧 Email: neginterprises@gmail.com <br>
-🔗 Instagram: @neginterprises <br>
+<a href = "mailto:neginterprises@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/neginterprises" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
 🌐 Site: em breve!
 <br>
 
