@@ -16,7 +16,6 @@ Nosso time é movido por desafios e apaixonado por tudo que envolve desenvolvime
 
 - 🖥️ Front-end
 - ✖️ Lógica com C
-<br>
 
 ## 🛠️ Tecnologias que amamos
 
@@ -51,8 +50,7 @@ Nosso time é movido por desafios e apaixonado por tudo que envolve desenvolvime
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
-<br>
+/> <br>
 
 ## 🌎 Nosso propósito
 
