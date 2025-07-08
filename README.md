@@ -2,7 +2,7 @@
 
 **Tecnologia com propósito. Inovação com resultado.**
 
-Bem-vindo ao repositório oficial da **N&G Interprises**!  
+Bem-vindo ao repositório oficial da **N&G Enterprises**!  
 Aqui é onde ideias se transformam em soluções inteligentes por meio de código limpo, arquitetura robusta e muita paixão por tecnologia.
 <br>
 
